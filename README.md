@@ -18,8 +18,8 @@ Click on the link below to join: (See [my schedule](#fardads-schedule) for lectu
 | 1      | 8:00-8:50   | |||| |
 | 2      | 8:55-9:45   | |OOP244 NCC (Lecture/Q&A)||| |
 | 3      | 9:50-10:40  | |OOP244 NCC (Lecture/Q&A)| || |
-| 4      | 10:45-11:35 | |[Office](https://teams.microsoft.com/l/channel/19%3aCAXjRJyUURGczRLmR8Yjs_B8IVCqC3yLi5XX0f9hnRA1%40thread.tacv2/General?groupId=497b3c92-f3bb-47c3-8459-c8a8cff5e751&tenantId=eb34f74a-58e7-4a8b-9e59-433e4c412757)| || |
-| 5      | 11:40-12:30 |OOP244 NAA (Lecture/Q&A) |[Office](https://teams.microsoft.com/l/channel/19%3aCAXjRJyUURGczRLmR8Yjs_B8IVCqC3yLi5XX0f9hnRA1%40thread.tacv2/General?groupId=497b3c92-f3bb-47c3-8459-c8a8cff5e751&tenantId=eb34f74a-58e7-4a8b-9e59-433e4c412757)|OOP244 NAA (Lecture) | | |
+| 4      | 10:45-11:35 | |[Office](https://teams.microsoft.com/l/team/19%3aCAXjRJyUURGczRLmR8Yjs_B8IVCqC3yLi5XX0f9hnRA1%40thread.tacv2/conversations?groupId=497b3c92-f3bb-47c3-8459-c8a8cff5e751&tenantId=eb34f74a-58e7-4a8b-9e59-433e4c412757)| || |
+| 5      | 11:40-12:30 |OOP244 NAA (Lecture/Q&A) |[Office](https://teams.microsoft.com/l/team/19%3aCAXjRJyUURGczRLmR8Yjs_B8IVCqC3yLi5XX0f9hnRA1%40thread.tacv2/conversations?groupId=497b3c92-f3bb-47c3-8459-c8a8cff5e751&tenantId=eb34f74a-58e7-4a8b-9e59-433e4c412757)|OOP244 NAA (Lecture) | | |
 | 6      | 12:35-13:25 |OOP244 NAA (Lecture/Q&A) ||OOP244 NAA (Lecture) | | |
 | 7      | 13:30-14:20 |OOP244 NBB (Lecture/Q&A) | | |OOP244 NBB (Lecture) ||
 | 8      | 14:25-15:15 |OOP244 NBB (Lecture/Q&A) | | |OOP244 NBB (Lecture) ||
@@ -28,9 +28,9 @@ Click on the link below to join: (See [my schedule](#fardads-schedule) for lectu
 | 11     | 17:10-18:00 | | | | | |
 | 12     | 18:05-18:55 | | | | | |
 
-## IPC144/BTP100 Review Session for OOP244/BTP200 Students
+## IPC144 Review Session recording for OOP244 Students
 The review session on IPC144/BTP100 was held on May 13th, 10 AM to 5:20 PM (7 hours and 20 minutes long). <br />
-This session was open to all the students who needed to review the 144/100 concepts before starting 244/200 subjects.<br />
+This session was open to all the students who needed to review the 144 concepts before starting 244 subjects.<br />
 
 ### Review Recordings
 [144/100 for 244/200 Review session](https://recordings.rna2.blindsidenetworks.com/senecacollege/f2f6a54f9f645d3f6c67dcc4a92dcade141b9b99-1620913137318/capture/)
