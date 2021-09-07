@@ -5,6 +5,8 @@ You are welcome to Fardad's classes as a guest by **using your real Seneca Name*
 Click on the link below to join: (See [my schedule](#fardads-schedule) for lecture times)<br />
 [OOP244 active session by Fardad](https://connect.rna2.blindsidenetworks.com/invite/to?c=ZCZPI6bklyuiu7hfvhvA3y7Kn2MuYh-sdbSavyQI9XU&m=5dca1315706a7fb0dde9ca7d036830d2b4672d43&t=1631018966547&u=senecacollege)
 ## Previous Sessions
+- [OOP244 Intro](https://recordings.rna2.blindsidenetworks.com/senecacollege/e19c72b89c437bc548771f0818048fe75798867f-1631018966584/capture/)
+
 ### NAA
 
 ### NBB
