@@ -12,24 +12,24 @@ Since the feedbacks are given on each workshop you will not lose any marks on th
 |[CRT](#crt) | w2 | `#define _CRT_SECURE_NO_WARNINGS` should be the first line in your .cpp file and never in a headerfile|
 |[CT](#ct)| w2 | Signature or citation missing |
 |[CV](#cv)| w2 | Relative constant values should reside inside the namespace |
-|[CSTR](#cstr)| w4 | Reuse your own cstring.h and cstring.cpp from workshop 1 instead of library &lt;cstring&gt; |
-|[FR](#fr) | w4 | For filler repetition and formatting use width and fill |
+|[FR](#fr) | w2 | For filler repetition and formatting use width and fill |
 |[IH](#ih) | w2 | Unneeded header file included in another header file| 
-|[IN](#in) | w3 | Sloppy formatting, bad or inconsistent indentation in the code  |
+|[IN](#in) | w2 | Sloppy formatting, bad or inconsistent indentation in the code  |
 |[IOS](#ios)| w2 | You have used stdio library functions instead of iostream cin and cout |
 |[MR](#mr)  | w2 | Unnecessary multiple return statements|
-|[NL](#nl) | w4 | Always set a pointer to null after the memory it is pointing to is deleted|
+|[NL](#nl) | w2 | Always set a pointer to null after the memory it is pointing to is deleted|
 |[RC](#rc)| w2 | Reuse your code|
-|[RD](#rd) | w3 | Unnecessary or redundant logic used in code. |
-|[RS](#rs) | w4 | Research the behaviour of the functions used instead of assuming what they do |
+|[RD](#rd) | w2 | Unnecessary or redundant logic used in code. |
+|[RS](#rs) | w2 | Research the behaviour of the functions used instead of assuming what they do |
 |[RT](#rt) | w2 | Insufficient or Empty reflection |
 |[SG](#sg) | w2 | You are not allowed to use the C++ string object here|
-|[SM](#sm) | w4 | The code could have been written much shorter in length and simpler |
+|[SM](#sm) | w2 | The code could have been written much shorter in length and simpler |
 |[SPAM](#spam)| w2 | Too many submissions |
 |[STRH](#strh)| w2 | Used &lt;cstring&gt; library to develop "cstring.h" string funcitons |
-|[TMP](#tmp) | w3 | Unnecessary temporary variables used in the functions. |
-|[UD](#ud) | w4 | Unnecessary DMA |
+|[TMP](#tmp) | w2 | Unnecessary temporary variables used in the functions. |
+|[UD](#ud) | w2 | Unnecessary DMA |
 |[UN](#un) | w2 | Used &lt;cstring&gt; library to develop "cstring.h" string functions. |
+<!-- |[CSTR](#cstr)| w2 | Reuse your own cstring.h and cstring.cpp from workshop 1 instead of library &lt;cstring&gt; | -->
 
 
 
@@ -58,14 +58,14 @@ void Food::display()const {
 }
 ```
 
-
+<!--
 ## CSTR
 ### You are using library &lt;cstring&gt; functions where you could use your own cstring functions implemented in workshop 1 DIY
 ### Problematic code sample
 ```C++
 // Not Applicable
 ```
-
+-->
 ## FR
 ### For filler repetition and formatting use width and fill and avoid hard coding the output
 ### Problematic code sample
