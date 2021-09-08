@@ -5,20 +5,19 @@ struct Account {
    double balance;
    char type;
    char accountHolder[50];
-   void deposit(double amount) {
-      balance += amount;
-   }
 };
 
 
-
+void deposit(struct Account* ap, double amount){
+   ap->balance += amount;
+}
 
 
 
 int main() {
    struct Account A;
 
-   A.deposit(2000);
+   deposit(&A, 2000);
 
    return 0;
 }
